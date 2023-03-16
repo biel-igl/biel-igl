@@ -1,7 +1,7 @@
 <h1>Hi there 👋 I'm Gabriel</h1> 
 
 <a href="https://www.linkedin.com/in/gabriel-pires-melo/">
-  <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src ="https://unicons.iconscout.com/release/v4.0.0/svg/line/linkedin.svg" width="48px" height="48px"/>
   </a>
 
 <!--
