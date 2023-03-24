@@ -4,6 +4,9 @@
   <img src ="https://unicons.iconscout.com/release/v4.0.0/svg/line/linkedin.svg" width="48px" height="48px"/>
   </a>
 
+<p>Estudante full stack na Trybe.</p>
+Concluido o modulo de Front End em <a href='https://www.credential.net/ac998488-6014-443d-82c7-729ef8c1c6a7'>16/03/2023</a> .<br/>
+Atualmente estuando Back end.
 <!--
 **biel-igl/biel-igl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
