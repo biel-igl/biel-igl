@@ -9,8 +9,8 @@ Concluido o modulo de Front End em <a href='https://www.credential.net/ac998488-
 Atualmente estuando Back end.
 
 <h2>Projetos</h2>
-<p>Front-End</p>
-<p>Star Wars planets <a href='https://biel-igl.github.io/app-starwars'>:night_with_stars:</a></p>
+<h3>Front-End</h3>
+<p>- Star Wars planets <a href='https://biel-igl.github.io/app-starwars'>:night_with_stars:</a></p>
 <!--
 **biel-igl/biel-igl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
